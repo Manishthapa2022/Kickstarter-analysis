@@ -21,3 +21,6 @@ Finally, there seems be no corelation on the number of canceled projects based o
 ### Conclusions made on Outcomes based goals
 
 
+### LImitations of the Data Set
+There was no analysis conducted based on the Target audiance (what type of the auidance wastargeted), the 
+and the artist perrformance. 
