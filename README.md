@@ -17,6 +17,7 @@ There seems to be very slight impact on the failed projects based on the launch 
 ### Analysis of the outcomes based on Goals
 ![Outcomes_vs_goals](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_goals.png)
 
+In the above chart, the goals have been have been split into various brackets such as leass than 1000, 1000 to 4999 and so on and then the percentage of successful, failed and canceled campaigns are compared based on the goals. It can be seen that when the goals are from (less than 1000) to (10000 to 14999), the success percentage is more. Also, one more key observation is that at seveeral brackets  
 ### Challenges and difficulties encountered
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
@@ -25,7 +26,7 @@ Based on the analysis conducted on the Kickstarter data, the following conculsio
 - The poorest success rate was seen during the month of December (37 which is almost 50%), hence it is recommeended not to launch any plays during this month. 
 - There seems be no corelation on the number of canceled projects based on the launch dates, whereas there is percentage of failed projects are higher for the October. 
 ### Conclusions made on Outcomes based goals
-* The highest rate of the success were projects with Goals less than 1000 (75.81%), whereas as the goal requirements increased there could be sudden decline in the success rate. 
+* The highest rate of the success were projects with Goals less than 1000 (75.81%), whereas as the goal requirements increased there is a decline in the success rate. 
 * There is a 100% failure rate observed for projects within Goal bracket (45000 to 49999).It is highly recommended to avoid any Goals within this brackets 
 
 ### LImitations of the Data Set
