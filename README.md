@@ -10,20 +10,20 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 ## Analysis and challenges
 
 ### Analysis of the outcomes based on Launch Dates
-
 ![Theater_outcomes_vs_launch](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Theater_outcomes_vs_launch.png)
-### Analysis of the outcomes based on Goals
 
+### Analysis of the outcomes based on Goals
 ![Outcomes_vs_goals](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_goals.png)
+
 ### Challenges and difficulties encountered
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
 ### Conclusions made on Outcomes based on Launch Dates 
-Most of the successful plays were launched in the month of May( followed by June, July and August. To achieve maximum success, it is recommended to launch the campaign from May to August.  
-Also, the poorest success rate was seen during the month of December (almost 50%), hence it is recommeended not to launch any plays during this month. 
-Finally, there seems be no corelation on the number of canceled projects based on the launch dates. 
+- Most of the successful plays were launched in the month of May( followed by June, July and August. To achieve maximum success, it is recommended to launch the campaign from May to August.  
+- The poorest success rate was seen during the month of December (almost 50%), hence it is recommeended not to launch any plays during this month. 
+- There seems be no corelation on the number of canceled projects based on the launch dates. 
 ### Conclusions made on Outcomes based goals
-
+* 
 
 ### LImitations of the Data Set
 There was no analysis conducted based on the Target audiance (such as Young, old, men, women or children), and ratings and the performance of the Artists. Also, the specific cites were these plays took place was not mentioned and also if any promotions/advertisements were carried out prior to the launch of the plays. 
