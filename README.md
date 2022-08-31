@@ -2,14 +2,15 @@
 Performance analysis on data to understand trends
 ## Overview of the Project
 To carry out detailed analysis on the Kickstarter data to provide meaning results.The following deliverables are provided:
-### Outcomes based on the launch date
-### Outcomes based on Goals
-### Written analysis of the result
+Outcomes based on the launch date
+ Outcomes based on Goals
+ Written analysis of the result
 ### Purpose
 The purpose of the project is to understand how dfferent campaigns fared in relation to their launch dates and their funding goals. By carrying out analysis on the Kickstarter data,we will be able to provide Lousie with a detaled feedback on campaign outcomes based on their launch dates and their funding goals. 
 ## Analysis and challenges
 
 ### Analysis of the outcomes based on Launch Dates
+
 ### Analysis of the outcomes based on Goals
 ### Challenges and difficulties encountered
 ## Results
@@ -22,5 +23,5 @@ Finally, there seems be no corelation on the number of canceled projects based o
 
 
 ### LImitations of the Data Set
-There was no analysis conducted based on the Target audiance (what type of the auidance wastargeted), the 
-and the artist perrformance. 
+There was no analysis conducted based on the Target audiance (such as Young, old, men, women or children), and ratings and the performance of the Artists. Also, the specific cites were these plays took place was not mentioned and also if any promotions/advertisements were carried out prior to the launch of the plays. 
+###
