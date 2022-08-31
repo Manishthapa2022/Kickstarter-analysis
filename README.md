@@ -13,6 +13,8 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 
 
 ### Analysis of the outcomes based on Goals
+
+![Outcomes_vs_goals](https://user-images.githubusercontent.com/104603028/187595342-030ee2d0-3d9d-4368-8c5d-94d1711636bc.png)
 ### Challenges and difficulties encountered
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
