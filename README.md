@@ -11,6 +11,7 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 
 ### Analysis of the outcomes based on Launch Dates
 ![Theater_outcomes_vs_launch](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Theater_outcomes_vs_launch.png)
+
 The above chart shows the various parameters such as the sucess, failure and cancelation for campaigns carried out based on Launch Dates. It can been that there is an profund increase in the number of successful projects from March(56) and it peaks till May (111). The success rate declines from there until the Sept (59) with marginal increase in Oct (65) and then eventually it drops till Dec() whe the number of the successful and failed projects are almost the same. 
 There seems to be very slight impact on the failed projects based on the launch dates and almost no impact in case of canceled projects. 
 ### Analysis of the outcomes based on Goals
