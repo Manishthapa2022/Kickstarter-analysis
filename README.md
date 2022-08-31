@@ -17,8 +17,9 @@ There seems to be very slight impact on the failed projects based on the launch 
 ### Analysis of the outcomes based on Goals
 ![Outcomes_vs_goals](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_goals.png)
 
-In the above chart, the goals have been have been split into various brackets such as less than 1000, 1000 to 4999 and so on and then the percentage of successful, failed and canceled campaigns are compared based on the goals. It can be seen that when the goals are from (less than 1000) to (10000 to 14999), the success percentage is more. Also, two key observations are that at three different instances i.e. (15000-19999), (35000-39999) and (45000-49999), the percentage successful campaigns are the same as the failed campaigns and the percentage failed campaigns are 100% within bracket (45000-49999).   
+In the above chart, the goals have been have been split into various brackets such as less than 1000, 1000 to 4999 and so on and then the percentage of successful, failed and canceled campaigns are compared based on the goals. It can be seen that when the goals are from (less than 1000) to (10000 to 14999), the success percentage is more. Also, two key observations are that at three different instances i.e. (15000-19999), (35000-39999) and (45000-49999), the percentage successful campaigns are the same as the failed campaigns and the percentage failed campaigns are 100% within bracket (45000-49999). Post this bracket, there is a high failure rate for the campaigns.  
 ### Challenges and difficulties encountered
+One of the major challenges faced by me was uploading documents to Github and how to create and populate the Readme file. I reviewed the coursenotes and also saw some Youtube videos to address that concern. Secondly, there were some issues faced with specific excel commands, which I was able to overcome after reviewing the course notes. Finally, the data set was quite large but I managed to handle it after practise. 
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
 ### Conclusions made on Outcomes based on Launch Dates 
@@ -32,6 +33,6 @@ Based on the analysis conducted on the Kickstarter data, the following conculsio
 ### LImitations of the Data Set
 There was no analysis conducted based on the Target audiance (such as Young, old, men, women or children), and ratings and the performance of the Artists. Also, the specific cites were these plays took place was not mentioned and also if any promotions/advertisements were carried out prior to the launch of the plays. 
 ### Further investigations
-We coul have done further analysis as blow:
-* chart plot showing the lenght of the project with respect to the success rate
-* chart plot showing the 
+We could have done further analysis as below:
+* chart plot showing outcomes based on the lenght of the project
+* Box and whiskers chart plot comparing the mean, median and the IQR figures for both Pledged and Goal amount
