@@ -16,7 +16,7 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
 ### Conclusions made on Outcomes based on Launch Dates 
-Most of the successful plays were launched in the month of May followed by June, July and August. To achieve maximum success, it is recommended to launch the campaign from May to August.  
+Most of the successful plays were launched in the month of May( followed by June, July and August. To achieve maximum success, it is recommended to launch the campaign from May to August.  
 Also, the poorest success rate was seen during the month of December (almost 50%), hence it is recommeended not to launch any plays during this month. 
 Finally, there seems be no corelation on the number of canceled projects based on the launch dates. 
 ### Conclusions made on Outcomes based goals
