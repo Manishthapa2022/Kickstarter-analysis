@@ -11,7 +11,8 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 
 ### Analysis of the outcomes based on Launch Dates
 ![Theater_outcomes_vs_launch](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Theater_outcomes_vs_launch.png)
-
+The above chart shows the various parameters such as the sucess, failure and cancelation for campaigns carried out based on Launch Dates. It can been that there is an profund increase in the number of successful projects from March(56) and it peaks till May (111). The success rate declines from there until the Sept (59) with marginal increase in Oct (65) and then eventually it drops till Dec() whe the number of the successful and failed projects are almost the same. 
+There seems to be very slight impact on the failed projects based on the launch dates and almost no impact in case of canceled projects. 
 ### Analysis of the outcomes based on Goals
 ![Outcomes_vs_goals](https://github.com/Manishthapa2022/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_goals.png)
 
@@ -19,11 +20,12 @@ The purpose of the project is to understand how dfferent campaigns fared in rela
 ## Results
 Based on the analysis conducted on the Kickstarter data, the following conculsions/observations were made:
 ### Conclusions made on Outcomes based on Launch Dates 
-- Most of the successful plays were launched in the month of May( followed by June, July and August. To achieve maximum success, it is recommended to launch the campaign from May to August.  
-- The poorest success rate was seen during the month of December (almost 50%), hence it is recommeended not to launch any plays during this month. 
-- There seems be no corelation on the number of canceled projects based on the launch dates. 
+- Most of the successful plays were launched in the month of May(111) followed by June(100), July(87) and August(72). To achieve maximum success, it is recommended to launch the campaign from May to August.  
+- The poorest success rate was seen during the month of December (37 which is almost 50%), hence it is recommeended not to launch any plays during this month. 
+- There seems be no corelation on the number of canceled projects based on the launch dates, whereas there is percentage of failed projects are higher for the October. 
 ### Conclusions made on Outcomes based goals
-* 
+* The highest rate of the success were projects with Goals less than 1000 (75.81%), whereas as the goal requirements increased there could be sudden decline in the success rate. 
+* There is a 100% failure rate observed for projects within Goal bracket (45000 to 49999).It is highly recommended to avoid any Goals within this brackets 
 
 ### LImitations of the Data Set
 There was no analysis conducted based on the Target audiance (such as Young, old, men, women or children), and ratings and the performance of the Artists. Also, the specific cites were these plays took place was not mentioned and also if any promotions/advertisements were carried out prior to the launch of the plays. 
